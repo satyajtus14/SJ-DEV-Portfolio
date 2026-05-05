@@ -16,6 +16,9 @@ I love transforming ideas into interactive, high-performance interfaces using Re
 
 Fun fact: I love experimenting with UI animations, gradients, and interactive components to make interfaces more engaging.
 
+## Live Portfolio Link:
+   https://sj-dev-portfolio.vercel.app/
+
 🌐 Socials:
 
 Currently, I'm contributing to the **WASHINGTON STATE DEPARTMENT OF LICENSING** in New York, NY, focusing on delivering high-quality, dependable software solutions.
